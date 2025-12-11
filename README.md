@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**sarthak4805/sarthak4805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **Sarthak Shirke**
+🚀 **MERN Stack Developer | AWS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building real-world web applications and learning new technologies every day.
+
+---
+🛠️ Tech Stack
+
+ React.js | Next.js | JavaScript | Tailwind CSS
+ Node.js | Express.js  |
+ MongoDB | PostgreSQL | Prisma  |
+ Git | GitHub | VS Code | Postman |
+
+### 📫 How to reach me
+
+* **Email:** [sarthakshirke8@gmail.com](mailto:sarthakshirke8@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/sarthak-shirkes](https://www.linkedin.com/in/sarthak-shirke)
+
+### ⚡ Fun fact
+
+I love creating projects that solve real problems and help me learn faster.
+
+---
+
+
