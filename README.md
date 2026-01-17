@@ -2,7 +2,7 @@
 
 
 I'm **Sarthak Shirke**
-🚀 **MERN Stack Developer | AWS**
+🚀 **Full Stack Developer | AWS**
 
 I enjoy building real-world web applications and learning new technologies every day.
 
