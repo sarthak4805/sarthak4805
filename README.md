@@ -2,7 +2,7 @@
 
 
 I'm **Sarthak Shirke**
-🚀 **Full Stack Developer | AWS**
+🚀 **Full Stack Developer | Agentic AI | AWS**
 
 I enjoy building real-world web applications and learning new technologies every day.
 
